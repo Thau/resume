@@ -1,0 +1,150 @@
+{
+  "imp": {
+    "orgFormat": "JRS"
+  },
+  "basics": {
+    "name": "Gonzalo Quero Diez",
+    "label": "Full Stack Developer",
+    "summary": "Web, videogame, and VFX software developer",
+    "website": "https://gonzaloquero.com",
+    "phone": "+34 609 391 761",
+    "email": "gonzalo.quero@doblepalabra.com",
+    "picture": "file:///Users/gonzalo/Dropbox/Public/cv.jpg",
+    "location": {
+      "address": "Calle Peral 5, Bajo Derecha\n41702 Dos Hermanas (Sevilla) - Spain",
+      "postalCode": "41702",
+      "city": "Dos Hermanas",
+      "countryCode": "ES",
+      "region": "SE"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "thau",
+        "url": "https://github.com/thau"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Endesa Ingeniería",
+      "website": "http://www.endesaingenieria.es/web/",
+      "position": "Programmer",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Software development internship",
+      "highlights": [
+        "Rewrote an automatic project sheet summarizer, making it easier to use and 10x faster (C#)",
+        "Optimized the client database so that we could make searches in a reasonable amount of time (SQL Server)"
+      ]
+    },
+    {
+      "company": "Imaginática",
+      "website": "http://imaginatica.org/2013/",
+      "position": "IT Manager",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Development and organization of Imaginatica 2009",
+      "highlights": [
+        "Wrote a workshop planner and a tool that ensured a fair assignment of students to the workshops they had to attend (Django)"
+      ]
+    },
+    {
+      "company": "16 Escalones Producciones",
+      "website": "https://16escalones.es",
+      "position": "IT Manager",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "summary": "In charge of everything computer-related",
+      "highlights": [
+        "Wrote tools to help split our main TV programme (La Semana Más Larga) in 15 minute sections to fit YouTube restrictions (Ruby)",
+        "Wrote a web for our programme, with connection to YouTube's API to automatically publish new episodes (Ruby on Rails)",
+        "Built and controlled a render farm for a 45 minute animation project (3ds Max, Networking)"
+      ]
+    },
+    {
+      "company": "DoblePalabra",
+      "website": "https://doblepalabra.com",
+      "position": "Owner",
+      "startDate": "2013-01-01",
+      "summary": "Web, Videogames, and VFX projects",
+      "highlights": [
+        "My own company.",
+        "Developed a successful videogame with more than a million downloads: Which Is The Real One? - For iOS and Android (Unity3D)",
+        "Developed other games, like The Last Contact (Unity3D)",
+        "Developed a full management system for Canitas, an animal health insurance company. It manages client information, medical data, and appointments for 4 clinics (Ruby on Rails)",
+        "Developed a tool to simulate growth of a tree for a projection mapping in Donostia (https://www.youtube.com/watch?v=bRgmZ0CChgU - 4:06) (MAXScript)"
+      ]
+    },
+    {
+      "company": "16 Escalones Producciones",
+      "website": "https://16escalones.es",
+      "position": "Development Director",
+      "startDate": "2014-01-01",
+      "summary": "Mobile, web, and VR projects",
+      "highlights": [
+        "Tasked with finding new business areas to expand",
+        "Developed a VR mobile app for Noteges (http://www.noteges.com). This tool shows images of buildings in 360º to help real estate salespeople show them to their clients (Unity3D + THREE.js)",
+        "Developed a synchronized mobile video player for a Noteges event (Unity3D)",
+        "Developed BeatDefense, a rhythm mobile game (Unity3D)",
+        "Developed SacaEntradas.com, a complete event ticket selling system with an automatically generated theatre seat map, and a ticket validation app (Django + React + React Native)",
+        "Developed software that allowed us to produce more than 10 minutes of animation and VFX for DotParty 2015 in less than three weeks (Unreal Engine 4)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Ruby",
+        "JavaScript",
+        "Python",
+        "C#",
+        "Elixir",
+        "Elm",
+        "Go"
+      ]
+    },
+
+    {
+      "name": "Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "Ruby on Rails",
+        "Django",
+        "Phoenix",
+        "React",
+        "Redux"
+      ]
+    },
+
+    {
+      "name": "Mobile",
+      "level": "Advanced",
+      "keywords": [
+        "React Native",
+        "Ionic"
+      ]
+    },
+
+    {
+      "name": "Video Games",
+      "level": "Advanced",
+      "keywords": [
+        "Unity3d",
+        "Unreal Engine 4"
+      ]
+    }
+  ]
+}
