@@ -69,7 +69,6 @@
       "startDate": "2013-01-01",
       "summary": "Web, Videogames, and VFX projects",
       "highlights": [
-        "My own company.",
         "Developed a successful videogame with more than a million downloads: Which Is The Real One? - For iOS and Android (Unity3D)",
         "Developed other games, like The Last Contact (Unity3D)",
         "Developed a full management system for Canitas, an animal health insurance company. It manages client information, medical data, and appointments for 4 clinics (Ruby on Rails)",
@@ -92,28 +91,30 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Programming",
       "level": "Advanced",
       "keywords": [
         "Ruby",
         "JavaScript",
+        "TypeScript",
         "Python",
         "C#",
         "Elixir",
         "Elm",
         "Go"
+      ]
+    },
+
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Webpack",
+        "Docker",
+        "Vim",
+        "Spacemacs"
       ]
     },
 
@@ -144,6 +145,15 @@
       "keywords": [
         "Unity3d",
         "Unreal Engine 4"
+      ]
+    },
+
+    {
+      "name": "Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Spanish (Native)",
+        "English (Fluent)"
       ]
     }
   ]
