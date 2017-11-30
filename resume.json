@@ -7,15 +7,15 @@
     "label": "Full Stack Developer",
     "summary": "Web, videogame, and VFX software developer",
     "website": "https://gonzaloquero.com",
-    "phone": "+34 609 391 761",
-    "email": "gonzalo.quero@doblepalabra.com",
+    "phone": "+44 7984 005209",
+    "email": "me@gonzaloquero.com",
     "picture": "file:///Users/gonzalo/Dropbox/Public/cv.jpg",
     "location": {
-      "address": "Calle Peral 5, Bajo Derecha\n41702 Dos Hermanas (Sevilla) - Spain",
-      "postalCode": "41702",
-      "city": "Dos Hermanas",
-      "countryCode": "ES",
-      "region": "SE"
+      "address": "Flat 263 Bromyard House, Bromyard Avenue, London",
+      "postalCode": "W3 7BS",
+      "city": "London",
+      "countryCode": "GB",
+      "region": "UK"
     },
     "profiles": [
       {
@@ -80,6 +80,7 @@
       "website": "https://16escalones.es",
       "position": "Development Director",
       "startDate": "2014-01-01",
+      "endDate": "2017-03-01",
       "summary": "Mobile, web, and VR projects",
       "highlights": [
         "Tasked with finding new business areas to expand",
@@ -89,6 +90,17 @@
         "Developed SacaEntradas.com, a complete event ticket selling system with an automatically generated theatre seat map, and a ticket validation app (Django + React + React Native)",
         "Developed software that allowed us to produce more than 10 minutes of animation and VFX for DotParty 2015 in less than three weeks (Unreal Engine 4)"
       ]
+    },
+    {
+      "company": "Quiqup",
+      "website": "https://quiqup.com",
+      "position": "Senior Backend Developer",
+      "startDate": "2017-03-01",
+      "summary": "System architecture and business development",
+      "highlights": [
+        "Worked in the new microservice architecture plan",
+        "Several projects in Ruby and Elixir"
+      ]
     }
   ],
   "skills": [
@@ -97,12 +109,12 @@
       "level": "Advanced",
       "keywords": [
         "Ruby",
+        "Elixir",
         "JavaScript",
         "TypeScript",
         "Python",
         "C#",
-        "Elixir",
-        "Elm",
+        "Kotlin",
         "Go"
       ]
     },
@@ -126,7 +138,9 @@
         "Django",
         "Phoenix",
         "React",
-        "Redux"
+        "Redux",
+        "MobX",
+        "Spring 5"
       ]
     },
 
