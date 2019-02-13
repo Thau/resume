@@ -67,6 +67,7 @@
       "website": "https://doblepalabra.com",
       "position": "Owner",
       "startDate": "2013-01-01",
+      "endDate": "2010-01-01",
       "summary": "Web, Videogames, and VFX projects",
       "highlights": [
         "Developed a successful videogame with more than a million downloads: Which Is The Real One? - For iOS and Android (Unity3D)",
@@ -94,12 +95,15 @@
     {
       "company": "Quiqup",
       "website": "https://quiqup.com",
-      "position": "Senior Backend Developer",
+      "position": "Engineer III/Senior Engineer",
       "startDate": "2017-03-01",
       "summary": "System architecture and business development",
       "highlights": [
         "Worked in the new microservice architecture plan",
-        "Several projects in Ruby and Elixir"
+        "Redid the on-call shift system to make it fairer and more functional",
+        "Built a complete GDPR service in just a week to ensure compliance",
+        "Designed and built a whole suite of services to provide same day delivery options",
+        "Several other projects in Ruby and Elixir"
       ]
     }
   ],
@@ -123,10 +127,11 @@
       "name": "Tools",
       "level": "Advanced",
       "keywords": [
-        "Webpack",
         "Docker",
+        "Kubernetes",
+        "PostgreSQL",
         "Vim",
-        "Spacemacs"
+        "Emacs"
       ]
     },
 
@@ -139,8 +144,7 @@
         "Phoenix",
         "React",
         "Redux",
-        "MobX",
-        "Spring 5"
+        "MobX"
       ]
     },
 
