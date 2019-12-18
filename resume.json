@@ -97,6 +97,7 @@
       "website": "https://quiqup.com",
       "position": "Engineer III/Senior Engineer",
       "startDate": "2017-03-01",
+      "endDate": "2019-05-21",
       "summary": "System architecture and business development",
       "highlights": [
         "Worked in the new microservice architecture plan",
@@ -104,6 +105,18 @@
         "Built a complete GDPR service in just a week to ensure compliance",
         "Designed and built a whole suite of services to provide same day delivery options",
         "Several other projects in Ruby, Elixir, and Node.js"
+      ]
+    },
+    {
+      "company": "CloudHealth by VMWare",
+      "website": "https://www.cloudhealthtech.com/",
+      "position": "Senior Member of Technical Staff",
+      "startDate": "2019-05-22",
+      "summary": "System architecture and business development",
+      "highlights": [
+        "Worked in microservices with Scala",
+        "Worked on maintenance of Ruby legacy code",
+        "Lead a multi-national project to upgrade the versions of Ruby and Rails in the codebase"
       ]
     }
   ],
@@ -119,7 +132,9 @@
         "Python",
         "C#",
         "Kotlin",
-        "Go"
+        "Go",
+        "Clojure",
+        "Scala"
       ]
     },
 
@@ -152,8 +167,7 @@
       "name": "Mobile",
       "level": "Advanced",
       "keywords": [
-        "React Native",
-        "Ionic"
+        "React Native"
       ]
     },
 
